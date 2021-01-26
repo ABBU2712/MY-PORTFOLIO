@@ -1,6 +1,6 @@
 # MY-PORTFOLIO
-Project 1
-WINTER-PROJECT(Spotify Genre Analysis )
+# Project 1
+## WINTER-PROJECT(Spotify Genre Analysis )
 This project is based on a dataset found on spotify to predict the genre based on the features of a particular song . The data-set is taken from the given site: https://www.kaggle.com/mrmorj/dataset-of-songs-in-spotify Steps included:
 
 Data reading
@@ -11,8 +11,8 @@ Applying KNN and finding the optimum value of k
 Using radom forest classifier to increase the accuracy of classification
 Productionalizing the model using heroku and streamlit library . (Pickling is done in order to conert the model in to bytes)
 
-Project 2
-STOCK PRICE PRECDICTION
+# Project 2
+## STOCK PRICE PRECDICTION
 Here , in this project I have tried to implement two of the classical methods for the prediction of stock prices based on the previous data present with us . The methods used by me are :
 
 ARIMA (Autoregressive Integrated Moving Averages)
