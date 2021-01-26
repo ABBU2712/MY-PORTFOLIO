@@ -12,7 +12,7 @@ Using radom forest classifier to increase the accuracy of classification
 Productionalizing the model using heroku and streamlit library . (Pickling is done in order to conert the model in to bytes)
 
 # Project 2
-## STOCK PRICE PRECDICTION
+## STOCK PRICE PREDICTION
 Here , in this project I have tried to implement two of the classical methods for the prediction of stock prices based on the previous data present with us . The methods used by me are :
 
 ARIMA (Autoregressive Integrated Moving Averages)
